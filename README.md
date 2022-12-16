@@ -8,8 +8,9 @@ I am self-taught frontend developer based in Berlin. Currently working as a free
 Check out some of my work: 
 
  <h1> 🌱 Movie-Finder </h1> 
- https://user-images.githubusercontent.com/90536788/208198093-a29895a1-fe2a-42cd-8c86-7097861aed13.mov
  
+
+https://user-images.githubusercontent.com/90536788/208201861-4c1cb7ef-1885-4ade-8225-e8452d7a6d63.mov
 
 <a href="https://github.com/neriiavr/Movie-Finder">Go to repository</a>
  
