@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 I am self-taught frontend developer based in Berlin. 
+Currently learning Next.js !
 
 ⚡ My tech stack : React, JS, Typescript, CSS, HTML 
 
-I am currently learning Next.js !
+
 
 
 
