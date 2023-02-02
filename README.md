@@ -4,10 +4,7 @@ I am self-taught frontend developer based in Berlin.
 
 ⚡ My tech stack : React, JS, Typescript, CSS, HTML 
 
-
-Check out some of my work: 
-
-<a> http://neriiavr.com/ </a>
+I am currently learning Next.js !
 
 
 
